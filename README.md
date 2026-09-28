@@ -8,7 +8,9 @@ distributed, highly available systems end to end — from architecture and IaC t
 on-call and incident response — and write production Go services alongside that.
 CKA certified.
 
-**Stack**
+---
+
+## Stack
 
 **Languages**
 
@@ -16,7 +18,6 @@ CKA certified.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Kubernetes & orchestration**
 
@@ -49,12 +50,10 @@ CKA certified.
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logo=victoriametrics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2F%20SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat&logo=etcd&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 
 **Blockchain infra**
 
@@ -73,9 +72,11 @@ CKA certified.
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6E56CF?style=flat&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-6E56CF?style=flat&logoColor=white)
 
-**Connect**
+---
 
-[LinkedIn](https://linkedin.com/in/rponkrashov) ·
-[Email](mailto:r.ponkrashov@gmail.com) ·
-[Telegram](https://t.me/HeadStack) ·
-[CKA Credly](https://www.credly.com/badges/21d41315-c4c1-4f0c-8a4a-748c7e0a2163/public_url)
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white)](https://linkedin.com/in/rponkrashov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:r.ponkrashov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/HeadStack)
+[![CKA Credly](https://img.shields.io/badge/CKA-Credly-FF6600?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/21d41315-c4c1-4f0c-8a4a-748c7e0a2163/public_url)
