@@ -10,14 +10,16 @@ CKA certified.
 
 **Stack**
 
-_Languages_
+**Languages**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-_Kubernetes & orchestration_
+**Kubernetes & orchestration**
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
@@ -28,7 +30,8 @@ _Kubernetes & orchestration_
 ![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat&logoColor=white)
 ![MetalLB](https://img.shields.io/badge/MetalLB-326CE5?style=flat&logoColor=white)
 
-_Infrastructure & cloud_
+**Infrastructure & cloud**
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-844FBA?style=flat&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
@@ -40,7 +43,8 @@ _Infrastructure & cloud_
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-_Observability & data_
+**Observability & data**
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logo=victoriametrics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -52,7 +56,8 @@ _Observability & data_
 ![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat&logo=etcd&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 
-_Blockchain infra_
+**Blockchain infra**
+
 ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat&logo=polkadot&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black)
 ![Injective](https://img.shields.io/badge/Injective-121D33?style=flat&logoColor=white)
@@ -61,7 +66,8 @@ _Blockchain infra_
 ![Coreum](https://img.shields.io/badge/Coreum-121D33?style=flat&logoColor=white)
 ![XDC](https://img.shields.io/badge/XDC-121D33?style=flat&logoColor=white)
 
-_AI tooling_
+**AI tooling**
+
 ![Claude](https://img.shields.io/badge/Claude%20%2F%20Claude%20Code%20%2F%20API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT / Codex](https://img.shields.io/badge/ChatGPT%20%2F%20Codex-000000?style=flat&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6E56CF?style=flat&logoColor=white)
